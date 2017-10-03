@@ -1,0 +1,1 @@
+This project pulls the data form data.json using $.getJSON(). It then uses the object array, to populate a new table matching each object with a new row.  In the last column,it uses given coordinates to create a link to the locations, using google maps.
